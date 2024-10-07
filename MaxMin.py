@@ -15,7 +15,7 @@ for i in range(5):
         minsum = minsum + l[i]
 
 print(maxsum, minsum)
-
+print("Thanks")
 
 
     
