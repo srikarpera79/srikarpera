@@ -16,7 +16,7 @@ for i in range(5):
 
 print(maxsum, minsum)
 print("Thanks a lot")
-
+print("Nothing")
 
     
 
